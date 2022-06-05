@@ -9,7 +9,11 @@ Esta el la modificación del documento
 Me encuentro realizando las pruebas de Git
 día: 05 de junio del 2022
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> NuevaRama1
 =======
 hora: 16:48 
+>>>>>>> NuevaRama1
+=======
+hora: 17:05 
 >>>>>>> NuevaRama1
