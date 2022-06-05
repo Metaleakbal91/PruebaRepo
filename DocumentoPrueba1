@@ -1,4 +1,11 @@
-Hola buen día. esta es mi prueba de Git numero 1
+Hola buen día. esta es mi prueba de Git número 1
 Este será mi primer repositorio de prueba
+<<<<<<< HEAD
 Mi nombre Enrique Lozada
 Y este es un documento modificado
+=======
+Mi nombre es Luis Enrique Lozada Fuentes, tengo 31
+Esta el la modificación del documento
+Me encuentro realizando lis pruebas de Git
+día: 05 de junio del 2022
+>>>>>>> NuevaRama1
