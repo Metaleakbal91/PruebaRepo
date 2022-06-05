@@ -6,6 +6,10 @@ Y este es un documento modificado
 =======
 Mi nombre es Luis Enrique Lozada Fuentes, tengo 31
 Esta el la modificación del documento
-Me encuentro realizando lis pruebas de Git
+Me encuentro realizando las pruebas de Git
 día: 05 de junio del 2022
+<<<<<<< HEAD
+>>>>>>> NuevaRama1
+=======
+hora: 16:48 
 >>>>>>> NuevaRama1
