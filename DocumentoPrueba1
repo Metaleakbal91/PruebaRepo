@@ -1,19 +1,13 @@
 Hola buen día. esta es mi prueba de Git número 1
 Este será mi primer repositorio de prueba
-<<<<<<< HEAD
 Mi nombre Enrique Lozada
 Y este es un documento modificado
-=======
 Mi nombre es Luis Enrique Lozada Fuentes, tengo 31
 Esta el la modificación del documento
 Me encuentro realizando las pruebas de Git
 día: 05 de junio del 2022
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> NuevaRama1
-=======
+
 hora: 16:48 
->>>>>>> NuevaRama1
-=======
+
 hora: 17:05 
->>>>>>> NuevaRama1
+
